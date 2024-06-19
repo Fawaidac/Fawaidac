@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 👋<br><br>My name is Achmad Fawa'id and I am a developer passionate about creating innovative solutions and contributing to open-source projects. Welcome to my GitHub profile!</h2>
+<h2 align="left">Hi there! 👋<br><br>My name is Achmad Fawa'id and I am a Website / Mobile Developer passionate about creating innovative solutions and contributing to open-source projects. Welcome to my GitHub profile!</h2>
 
 ###
 
