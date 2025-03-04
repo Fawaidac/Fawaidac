@@ -110,7 +110,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fawaidac/Fawaidac/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
